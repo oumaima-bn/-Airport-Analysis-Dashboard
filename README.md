@@ -12,7 +12,7 @@
 ---
 ##  Author
 
-**Oumaima Bendjaj.** — Data & AI Engineer | Data Scientist | Data Analyst
+**Oumaima Bendjaj** — Data & AI Engineer | Data Scientist | Data Analyst
 🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
 
 ## 📌 Overview
