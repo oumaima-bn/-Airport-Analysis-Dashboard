@@ -1,9 +1,6 @@
 # ✈️ Airport Analysis Dashboard
 
-##  Author
 
-**Oumaima Bendjaj.** — Data & AI Engineer | Data Scientist | Data Analyst
-🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
 
 > An interactive **Power BI** dashboard to monitor flight volume, cancellations and delays across U.S. airports.
 
@@ -13,7 +10,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
+##  Author
 
+**Oumaima Bendjaj.** — Data & AI Engineer | Data Scientist | Data Analyst
+🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
 
 ## 📌 Overview
 
