@@ -10,10 +10,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
-##  Author
 
-**Oumaima Bendjaj** — Data & AI Engineer | Data Scientist | Data Analyst
-🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
+
+** Author :** Oumaima Bendjaj
+
 
 ## 📌 Overview
 
