@@ -30,7 +30,7 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 
 | Total flights | Cancelled flights | Avg arrival delay | Avg departure delay |
 |:---:|:---:|:---:|:---:|
-| **33K** | **393** | **60.72** | **34.99** |
+| **38K** | **453** | **60.72** | **34.99** |
 
 ## 🗂️ Dashboard Structure
 
@@ -43,7 +43,7 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 ## Page 1 – Airport Analysis Dashboard
    ![Page 1](page1_airport_analysi.JPG)
 
-- **Total Flights by Month:** volume is steady at roughly 2.7K–2.8K flights per month, with February the lowest at 2.5K.
+- **Total Flights by Month:** volume is steady at roughly 3.2K–3.3K flights per month, with February the lowest at 3.0K.
 - **Cancelled Flights by Day:** cancellations are irregular across the month, with peaks of about 20 flights on certain days.
 
 ## Page 2 – Delays and Time Analysis
@@ -60,7 +60,7 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 
 ## 🔍 Key Observations
 
-- Monthly flight volume is stable, with February the lowest (2.5K vs. about 2.7K–2.8K).
+- Monthly flight volume is stable, with February the lowest (3.0K vs. about 3.2K–3.3K).
 - Cancellations peak on certain days of the month rather than following a steady pattern.
 - Arrival delays are higher than departure delays, suggesting delay is added in flight or on arrival.
 - Cancellations are concentrated in a few destinations, led by Jackson (Mississippi) in the view shown.
@@ -103,9 +103,9 @@ Airport-Analysis-Dashboard/
 ## 🚀 How to Use
 
 1. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/<your-username>/Airport-Analysis-Dashboard.git
-   ```
+```
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
 3. Open the `.pbix` file.
 4. Use the slicers (month, day, year, origin, destination) and the navigation buttons to explore the three pages.
