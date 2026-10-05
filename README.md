@@ -8,6 +8,10 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ---
+## 👩‍💻 Author
+
+**Oumaima Bendjaj.** — Data & AI Engineer | Data Scientist | Data Analyst
+🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
 
 ## 📌 Overview
 
@@ -28,8 +32,6 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 |:---:|:---:|:---:|:---:|
 | **33K** | **393** | **60.72** | **34.99** |
 
-> Figures are read from the dashboard as filtered in the screenshots. They change when slicers are applied.
-
 ## 🗂️ Dashboard Structure
 
 | Page | Purpose | Main visuals |
@@ -39,7 +41,7 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 | **3. Detailed Flight Analysis** | Drill-down into individual flights | Detailed table, treemap of cancellations |
 
 ### Page 1 – Airport Analysis Dashboard
-![Page 1](images/page1_airport_analysis.png)
+   ![Page 1](images/page1_airport_analysis.png)
 
 - **Total Flights by Month:** volume is steady at roughly 2.7K–2.8K flights per month, with February the lowest at 2.5K.
 - **Cancelled Flights by Day:** cancellations are irregular across the month, with peaks of about 20 flights on certain days.
@@ -73,7 +75,7 @@ This project is an interactive Power BI dashboard built to monitor key airline p
 
 ## 🛠️ Tools & Skills
 
-This dashboard was built with **Microsoft Power BI Desktop**. The data was cleaned and transformed with **Power Query**, and the calculations (totals, average departure and arrival delays) were written as **DAX measures**. Relationships between tables were set up in the data model so that filters work across all pages.
+This dashboard was built with **Microsoft Power BI Desktop**. The data was cleaned and transformed with **Power Query**, and the calculations (totals, average departure and arrival delays) were written as **DAX measures**. 
 
 The report uses KPI cards, a bar chart, an area chart, scatter plots, a map, a treemap and a detailed table. Interactivity comes from slicers (month, day, year, origin, destination) and page navigation buttons.
 
@@ -115,10 +117,7 @@ Airport-Analysis-Dashboard/
 - Add year-over-year comparisons.
 - Publish the report to Power BI Service for online sharing.
 
-## 👩‍💻 Author
 
-**Oumaima B.** — Data & AI Engineer | Data Scientist | Data Analyst
-🔗 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj)
 
 ---
 
