@@ -95,7 +95,8 @@ The report uses KPI cards, a bar chart, an area chart, scatter plots, a map, a t
 ```
 Airport-Analysis-Dashboard/
 ├── Airport_Analysis_Dashboard.pbix                  # Power BI report file
-├── Airport_Analysis_Dashboard_Report_Purple.pdf     # Project report                                        # Dashboard screenshots
+├── Airport_Analysis_Report.pdf                      # Project report
+│── flights_data.csv                                 
 │── page1_airport_analysis.png
 │── page2_delays_time_analysis.png
 │── page3_detailed_flight_analysis.png
